@@ -7,4 +7,5 @@ The web app uses the Edamam API in order to generate a random recipe under a cal
 HTML, CSS, JavaScript, Node.js, Express
 # Features I plan on adding
 In the future I plan on adding the ability to create accounts, allowing the user to share recipes or rate the recipe generated so others can see the ratings as well
-# How can you acceess it?
+# How can you try it out?
+After cloning the repository you're doing to want to install a dependency and run: npm install express to be able to properly run the web app. 
